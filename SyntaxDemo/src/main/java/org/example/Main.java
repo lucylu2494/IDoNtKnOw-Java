@@ -21,7 +21,6 @@ public class Main {
        float f = 3.14f;
        boolean bool = true;
        char ch = 'a';
-       String str = "abc";
 
 
        int[] int_array = {1,2,3,4,5,6,7};
