@@ -6,11 +6,13 @@ public class Fake {
     public String lastName;
 
     public Fake(int age, String firstName, String lastName) {
-        this.age =age;
+        this.age = age;
         this.firstName = firstName;
         this.lastName = lastName;
     }
 
     public int getAge() {
-        return age;
+        return this.age;
     }
+}
+
