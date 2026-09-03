@@ -19,6 +19,8 @@ public class Main {
 
        double dd = 3.1415;
        float f = 3.14f;
+       boolean bool = true;
+       char ch = 'a';
 
        int[] int_array = {1,2,3,4,5,6,7};
 
