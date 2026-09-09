@@ -24,14 +24,17 @@ public class Person {
     }
 
     public int getAge() {
+
         return this.age;
     }
 
     public String getFirstName() {
+
         return this.firstName;
     }
 
     public String getLastName() {
+
         return this.lastName;
     }
 }
