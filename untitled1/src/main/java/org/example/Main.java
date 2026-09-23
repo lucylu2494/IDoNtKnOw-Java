@@ -4,11 +4,6 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        Address duthieAddress = new Address(
-                "222 Eastern Parkway",
-                "Louisville",
-                "Kentuky",
-                "40208"
-        );
+        System.out.println(Buildings.DUTHIE.getAddress().street());
     }
 }
