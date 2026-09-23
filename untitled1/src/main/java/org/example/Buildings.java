@@ -24,6 +24,6 @@ public enum Buildings {
     }
 
     public Address getAddress() {
-        return address;
+        return address
     }
 }
